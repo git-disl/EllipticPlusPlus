@@ -4,6 +4,8 @@ The Elliptic++ dataset consists of 203k Bitcoin transactions and 822k wallet add
 
 If you have any questions or create something with this dataset, please let us know by email: [yelmougy3@gatech.edu](mailto:yelmougy3@gatech.edu).
 
+**DATASET CAN BE FOUND HERE: [Google Drive](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l?usp=sharing)**
+
 ## Dataset Summary 
 
 The Elliptic++ dataset contains a transactions dataset and an actors (wallet addresses) dataset.
@@ -33,6 +35,8 @@ Elliptic++ Actors (Wallet Addresses) Dataset:
 | # Licit (class-2) | 251,088 |
 | # Unknown (class-3) | 557,588 |
 | # Features | 56 |
+
+**DATASET CAN BE FOUND HERE: [Google Drive](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l?usp=sharing)**
 
 ## Dataset Tutorials
 
@@ -118,12 +122,24 @@ The folder structure of this dataset repository is as follows:
     │   └── Elliptic++ Actors Feature Analysis.ipynb            # Tutorial notebook: feature importance analysis
     └── README.md
 
+**DATASET CAN BE FOUND HERE: [Google Drive](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l?usp=sharing)**
 
 # Citation
 
-If you use our dataset in your work, please cite [our paper]().
+If you use our dataset in your work, please cite [our paper](https://arxiv.org/pdf/2306.06108.pdf). (Pending publication in ACM SIGKDD '23 conference proceedings)
 
-> Youssef Elmougy and Ling Liu. 2023. Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics.
+> Youssef Elmougy and Ling Liu. 2023. Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23), August 6–10, 2023, Long Beach, CA, USA. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3580305.3599803
+
+For a longer version of the paper, please refer to our ArXiv paper: [ArXiv version](https://arxiv.org/pdf/2306.06108.pdf)
+
+```
+@article{elmougy2023demystifying,
+  title={Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics},
+  author={Elmougy, Youssef and Liu, Ling},
+  journal={arXiv preprint arXiv:2306.06108},
+  year={2023}
+}
+```
 
 # Acknowledgement
 
@@ -133,3 +149,5 @@ School of Computer Science, Georgia Institute of Technology
 
 
 If you have any questions or create something with this dataset, please let us know by email: [yelmougy3@gatech.edu](mailto:yelmougy3@gatech.edu).
+
+**DATASET CAN BE FOUND HERE: [Google Drive](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l?usp=sharing)**
