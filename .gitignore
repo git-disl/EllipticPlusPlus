@@ -2,3 +2,6 @@
 Transactions Dataset/txs_classes.csv
 Transactions Dataset/txs_edgelist.csv
 Transactions Dataset/txs_features.csv
+elliptic/txs_classes.csv
+elliptic/txs_edgelist.csv
+elliptic/txs_features.csv
